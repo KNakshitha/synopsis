@@ -148,8 +148,6 @@ The evidence for this investigation is divided into three categories:
 
 ## 1. Measured Data
 
-The following should be measured during the investigation rather than guessed.
-
 | Measurement                                        |         Result |
 | -------------------------------------------------- | -------------: |
 | Number of students/process cases observed          |            ___ |
