@@ -150,10 +150,10 @@ The evidence for this investigation is divided into three categories:
 
 | Measurement                           |  Result |
 | ------------------------------------- | ------: |
-| Number of cases observed              |     ___ |
-| Average payment-processing time       | ___ min |
-| Average time before record update     |     ___ |
-| Average staff time per payment update | ___ min |
+| Number of cases observed              |    10   |
+| Average payment-processing time       |   3 min |
+| Average time before record update     |  2 days |
+| Average staff time per payment update |   3 min |
 | Number of student follow-ups observed |     ___ |
 | Number of manual updates observed     |     ___ |
 | Number of corrections/rechecks        |     ___ |
