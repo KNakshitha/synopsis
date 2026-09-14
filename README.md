@@ -487,7 +487,7 @@ If automation reduced 60% of this repetitive work:
 = 11 hours saved/month
 ```
 
-**Important:** The numbers above are only an example of the calculation method. They should be replaced with actual measured/verified values before submission.
+**Important:** The numbers above are only an example of the calculation method.
 
 ---
 
