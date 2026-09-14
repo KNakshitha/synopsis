@@ -148,24 +148,26 @@ The evidence for this investigation is divided into three categories:
 
 ## 1. Measured Data
 
-| Measurement                           |  Result |
-| ------------------------------------- | ------: |
-| Number of cases observed              |    10   |
-| Average payment-processing time       |   3 min |
-| Average time before record update     |  2 days |
-| Average staff time per payment update |   3 min |
-| Number of student follow-ups observed |     ___ |
-| Number of manual updates observed     |     ___ |
-| Number of corrections/rechecks        |     ___ |
+| Measurement                           |  Result     |
+| ------------------------------------- | ------:     |
+| Number of cases observed              |    10       |
+| Average payment-processing time       |   3 min     |
+| Average time before record update     |  2 days     |
+| Average staff time per payment update |   3 min     |
+| Number of student follow-ups observed | Not Measured|
+| Number of manual updates observed     | Not Measured|
+| Number of corrections/rechecks        | Not Measured|
    
 
-### Example of measurement
+### Example of Measurement
 
-If I observe 10 cases and the hostel section spends approximately 3 minutes checking and updating each payment:
+If a student completes a payment on Monday and the hostel record is updated on Wednesday:
 
 ```text
-10 cases × 3 minutes
-= 30 minutes of manual work
+Payment completed: Monday
+Record updated: Wednesday
+
+Waiting time = 2 days
 ```
 
 
