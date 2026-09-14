@@ -152,7 +152,7 @@ The evidence for this investigation is divided into three categories:
 
 | Measurement                           |  Result     |
 | ------------------------------------- | ------:     |
-| Number of cases observed              |    10       |
+| Number of cases observed              |    6-8      |
 | Average payment-processing time       |   3 min     |
 | Average time before record update     |  2 days     |
 | Average staff time per payment update |   3 min     |
