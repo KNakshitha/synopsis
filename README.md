@@ -170,9 +170,6 @@ If I observe 10 cases and the hostel section spends approximately 3 minutes chec
 = 30 minutes of manual work
 ```
 
-This is only an example. The final repository should contain the actual observations I make.
-
----
 
 ## 2. Estimates
 
