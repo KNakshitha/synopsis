@@ -617,19 +617,21 @@ The recommended approach is **software and rule-based automation first**, with A
 
 ---
 
-# AI Usage
+# 🤖 AI Usage
 
-AI tools were used during the preparation of this analysis to:
+AI tools were used as a supporting tool during the preparation of this analysis.
 
-* Structure the observations into a workflow.
-* Improve the clarity of the README.
-* Identify possible automation opportunities.
-* Help formulate the ROI calculation.
-* Identify risks and unknowns that should be investigated.
+They were used to:
 
-AI was **not used to collect personal student information**.
+• Organize my observations into a clear workflow.  
+• Help structure and format this README.  
+• Suggest possible automation opportunities.  
+• Help with the ROI calculation format.  
+• Help identify risks and unknowns to consider.
 
-No personal student data was uploaded to an AI system as part of this investigation.
+The workflow, problem identification, and field observations are based on my own investigation.
+
+No personal student information was provided to an AI tool.
 
 ---
 
