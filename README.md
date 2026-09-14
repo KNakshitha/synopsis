@@ -28,7 +28,7 @@ I am a student investigating an operational workflow as part of the **HKAIVERSE 
 
 I focused on the process rather than on any individual staff member.
 
-Measured data below is based on my own payment (timed directly) plus recollection of cases discussed with hallway-mates in my hostel wing.
+The observations below are based primarily on my own payment experience and direct observation of the workflow. Information recalled from conversations with other hostel students is treated as qualitative context, not measured data.
 
 ### What I observed
 
@@ -152,9 +152,9 @@ The evidence for this investigation is divided into three categories:
 
 | Measurement                           |  Result     |
 | ------------------------------------- | ------:     |
-| Number of cases observed              |    6-8      |
+| Number of cases observed              |     6       |
 | Average payment-processing time       |   3 min     |
-| Average time before record update     |  2 days     |
+| Observed time before record update    |  2 days     |
 | Average staff time per payment update |   3 min     |
 | Number of student follow-ups observed | Not Measured|
 | Number of manual updates observed     | Not Measured|
