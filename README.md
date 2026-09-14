@@ -70,7 +70,7 @@ Only process-level observations, counts, timings, and estimates are considered.
 
 ---
 
-# # 🔄 Current Workflow
+# 🔄 Current Workflow
 
 The current process can be represented as:
 
