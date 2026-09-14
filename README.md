@@ -148,16 +148,16 @@ The evidence for this investigation is divided into three categories:
 
 ## 1. Measured Data
 
-| Measurement                                        |         Result |
-| -------------------------------------------------- | -------------: |
-| Number of students/process cases observed          |            ___ |
-| Average time taken by a student to make payment    |        ___ min |
-| Average waiting time before payment is reflected   | ___ hours/days |
-| Average time spent by staff checking one payment   |        ___ min |
-| Average time spent updating one spreadsheet record |        ___ min |
-| Number of follow-ups observed in the sample        |            ___ |
-| Number of manual updates in the observation period |            ___ |
-| Number of cases requiring correction/rechecking    |            ___ |
+| Measurement                                        |  
+| -------------------------------------------------- | 
+| Number of students/process cases observed          |            
+| Average time taken by a student to make payment    |        
+| Average waiting time before payment is reflected   | 
+| Average time spent by staff checking one payment   |        
+| Average time spent updating one spreadsheet record |        
+| Number of follow-ups observed in the sample        |            
+| Number of manual updates in the observation period |            
+| Number of cases requiring correction/rechecking    |            
 
 ### Example of measurement
 
