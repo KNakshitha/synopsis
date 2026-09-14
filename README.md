@@ -642,17 +642,7 @@ No personal student information was provided to an AI tool.
 ```text
 hostel-mess-fee-workflow/
 │
-├── README.md
-│
-├── docs/
-│   └── observation-notes.md
-│
-├── diagrams/
-│   ├── current-workflow.png
-│   └── proposed-workflow.png
-│
-└── sample-data/
-    └── anonymized-measurements.csv
+└── README.md
 ```
 
 Only anonymized process information should be included.
