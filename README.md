@@ -1,6 +1,6 @@
 # Hostel Mess Fee Payment & Manual Update Workflow
 
-## Problem
+## 🎯 Problem
 
 The hostel mess-fee payment and update process in my college involves multiple manual steps.
 
@@ -20,7 +20,7 @@ The main problem I investigated is therefore:
 
 ---
 
-# How I Found It
+# 🔎 How I Found It
 
 I identified this workflow by observing my own experience with the hostel mess-fee payment process and understanding how the payment information is handled afterward.
 
@@ -70,7 +70,7 @@ Only process-level observations, counts, timings, and estimates are considered.
 
 ---
 
-# Current Workflow
+# # 🔄 Current Workflow
 
 The current process can be represented as:
 
@@ -142,7 +142,7 @@ The hostel section verifies the payment and manually updates/cuts the already-pa
 
 ---
 
-# Evidence
+# 📊  Evidence
 
 The evidence for this investigation is divided into three categories:
 
@@ -196,7 +196,7 @@ Any assumption that cannot be verified will be listed in the **Unknowns** sectio
 
 ---
 
-# Operational Impact
+# ⚠️ Operational Impact
 
 The current workflow creates several operational problems.
 
@@ -280,7 +280,7 @@ A clear status system could reduce unnecessary follow-ups.
 
 ---
 
-# Proposed Future Workflow
+# 🚀  Proposed Future Workflow
 
 The proposed solution is a **software-based payment-status and record-update workflow**.
 
@@ -342,7 +342,7 @@ This gives the student visibility without requiring them to repeatedly visit the
 
 ---
 
-# Where Automation Helps
+# ⚙️ Where Automation Helps
 
 The problem should be solved with normal software and workflow automation first.
 
@@ -424,7 +424,7 @@ This prevents automation from making incorrect financial decisions.
 
 ---
 
-# ROI / Impact Estimate
+# 💰 ROI / Impact Estimate
 
 The main potential benefit is reducing repetitive manual work and student follow-ups.
 
@@ -491,7 +491,7 @@ If automation reduced 60% of this repetitive work:
 
 ---
 
-# Risks
+# 🛡️ Risks
 
 Automation could introduce new risks if implemented incorrectly.
 
@@ -555,7 +555,7 @@ Cases that cannot be confidently verified should be sent to human review.
 
 ---
 
-# Unknowns
+# ❓ Unknowns
 
 The following information could not be fully verified during the initial investigation:
 
@@ -655,11 +655,11 @@ hostel-mess-fee-workflow/
 
 Only anonymized process information should be included.
 
-No student names, roll numbers, marks, fee records, bank information, transaction IDs, or other personal information should be uploaded.
+No student names, roll numbers, marks, fee records, bank information, transaction IDs, or other personal information should be included.
 
 ---
 
-# Key Finding
+# 🔑 Key Finding
 
 > **The core problem is not that students cannot pay digitally. The problem is the lack of a connected workflow between digital payment, payment verification, hostel record updating, and student status visibility.**
 
