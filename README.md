@@ -28,6 +28,8 @@ I am a student investigating an operational workflow as part of the **HKAIVERSE 
 
 I focused on the process rather than on any individual staff member.
 
+Measured data below is based on my own payment (timed directly) plus recollection of cases discussed with hallway-mates in my hostel wing.
+
 ### What I observed
 
 The process currently involves:
